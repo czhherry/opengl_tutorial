@@ -1,0 +1,3 @@
+/home/chen/version-control/opengl_tutorial/1_creating_a_window/build/CMakeFiles/rebuild_cache.dir
+/home/chen/version-control/opengl_tutorial/1_creating_a_window/build/CMakeFiles/create_window.dir
+/home/chen/version-control/opengl_tutorial/1_creating_a_window/build/CMakeFiles/edit_cache.dir

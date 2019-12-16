@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/create_window.dir/main.cpp.o  -o create_window -lglfw3 -lGL -lm -lXrandr -lXi -lX11 -lXxf86vm -lpthread -ldl -lXinerama -lXcursor 
